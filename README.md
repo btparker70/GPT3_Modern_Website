@@ -1,5 +1,5 @@
-# GPT3_Moder_Website
+# GPT3_Modern_Website
 
-This is a fully responsive website designed with React and CSS.
+This is a fully responsive webpage designed with React and CSS.
 
 Check out the live page here: https://gpt3-brianparker.com/
